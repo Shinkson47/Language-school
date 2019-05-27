@@ -1,0 +1,32 @@
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\bin\Debug\Language School.exe.config
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\bin\Debug\Language School.exe
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\bin\Debug\Language School.pdb
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\bin\Debug\Language School.xml
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language School.vbprojResolveAssemblyReference.cache
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language_School.frmSplash.resources
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language_School.Resources.resources
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language School.vbproj.GenerateResource.cache
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language School.vbproj.CoreCompileInputs.cache
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language School.exe
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language School.xml
+G:\My Drive\College\Coursework\Unit 6 - Application Design\Pass\P4\Language School\Language School\obj\Debug\Language School.pdb
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\bin\Debug\Language School.exe.config
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\bin\Debug\Language School.exe
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\bin\Debug\Language School.pdb
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\bin\Debug\Language School.xml
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.vbprojResolveAssemblyReference.cache
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language_School.frmSplash.resources
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language_School.Resources.resources
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.vbproj.GenerateResource.cache
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.vbproj.CoreCompileInputs.cache
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.exe
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.xml
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.pdb
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language School.vbproj.ResolveComReference.cache
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language_School.frmMenu.resources
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language_School.Cognative.resources
+C:\Users\Jordan Gray`\Documents\P4\Language School\Language School\obj\Debug\Language_School.LangReSel.resources
